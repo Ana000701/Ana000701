@@ -9,16 +9,7 @@
 
 ## Practices｜刻意練習
 每天的一小步，邁向前端...還是一小步
-| 專案名稱 | Live Demo | 練習進度 |
-| ------------- |:-------------:| -----:|
-|50 Projects In 50 Days - HTML, CSS & JavaScript| [Codepen](https://codepen.io/collection/WvBKG)| Day 14 |
-| 金魚都能懂的網頁切版 | [Codepen](https://codepen.io/collection/aMrjzG)| Day 4 |
-|  Frontend Mentor | [Codepen]() | 持續進行中 |
-| React Practice Project - Tic Tac Toe | [Codesandbox](https://codesandbox.io/p/sandbox/determined-kowalevski-zkhhkm) | Done |
-| React Practice Project - Investment Calculator | [Codesandbox](https://codesandbox.io/p/sandbox/react-practice-project-investment-calculator-mchndn) | Done |
-
-## Challenge | 每日挑戰
-| 挑戰名稱 | Live Demo |
+| 專案名稱 | Live Demo |
 | ------------- |:-------------:|
 | 100 Days CSS Challenge | [Codepen](https://codepen.io/collection/QWrBKW) |
 | CSS Battle | [Codepen](https://codepen.io/collection/kNOjdw) |
