@@ -1,20 +1,8 @@
 
 ## Hi 👋, I'm Ana
 
-
-
 ## Projects｜專案
 🪙<a href="#">個人作品－碳吉學院</a> －持續進行中
-
-
-## Practices｜刻意練習
-每天的一小步，邁向前端...還是一小步
-| 專案名稱 | Live Demo |
-| ------------- |:-------------:|
-| 100 Days CSS Challenge | [Codepen](https://codepen.io/collection/QWrBKW) |
-| CSS Battle | [Codepen](https://codepen.io/collection/kNOjdw) |
-| CodeWar | ![img](https://www.codewars.com/users/Ana000701/badges/large)  |
-
 
 ## ToolBox｜工具
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
