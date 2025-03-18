@@ -4,10 +4,6 @@
 ## Projects｜專案
 <a href="https://ana000701.github.io/react-boxes/" target="_blank">專題作品－網購紙箱回收網站</a>
 
-## challenge | 挑戰
-[JavaScript30](https://github.com/Ana000701/JavaScript30.git) <br/>
-[Conquering Responsive Layouts](https://github.com/Ana000701/Conquering-Responsive-Layouts.git)
-
 ## ToolBox｜工具
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
